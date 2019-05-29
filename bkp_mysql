@@ -1,16 +1,9 @@
 <?php
 
-/**
-* Updated: Mohammad M. AlBanna
-* Website: MBanna.info
-*/
-
-
-
 //MySQL server and database
-$dbhost = '10.51.10.221';
-$dbuser = 'suporte';
-$dbpass = 'ph&rs3f0n3';
+$dbhost = '**.**.**.***';
+$dbuser = 'user';
+$dbpass = 'pass';
 $dbname = 'TESTE';
 $tables = 'tbl_teste';
 
