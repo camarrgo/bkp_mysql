@@ -7,7 +7,7 @@ $dbpass = 'pass';
 $dbname = 'TESTE';
 $tables = 'tbl_teste';
 
-//Call the core function
+// Call the core function
 backup_tables($dbhost, $dbuser, $dbpass, $dbname, $tables);
 
 //Core function
